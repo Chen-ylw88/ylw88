@@ -30,21 +30,30 @@
       "ext": "[object Object]"
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃预告片",
+      "key": "至臻",
+      "name": "💖┃至臻┃4K💖",
       "type": 3,
-      "api": "csp_YGPGuard",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "MTV1",
-      "name": "🎙️易听音乐┃带歌词",
+      "key": "WexhubanGuard",
+      "name": "💓虎斑┃4K💓",
       "type": 3,
-      "api": "csp_MusicGuard",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_WexhubanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Wexmuougg",
+      "name": "💓木偶┃4K💓",
+      "type": 3,
+      "api": "csp_WexmuouggGuard",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
