@@ -2,7 +2,7 @@
     "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单",
+      "name": "您好，陈先生，欢迎使用中国IPTV",
       "type": 3,
       "api": "csp_DouDouGuard",
       "searchable": 0,
