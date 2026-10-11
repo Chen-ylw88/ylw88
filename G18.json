@@ -1,8 +1,8 @@
 {
-  "sites": [
+    "sites": [
     {
       "key": "点我切源",
-      "name": "您好，陈先生，欢迎使用中国IPTV",
+      "name": "豆豆┃片单",
       "type": 3,
       "api": "csp_DouDouGuard",
       "searchable": 0,
@@ -11,7 +11,7 @@
     },
     {
       "key": "MDrive",
-      "name": "🗂我的云盘┃我配置",
+      "name": "🗂我的云盘┃配置",
       "type": 3,
       "api": "csp_MyDriveGuard",
       "searchable": 1,
@@ -30,30 +30,26 @@
       "ext": "[object Object]"
     },
     {
-      "key": "至臻",
-      "name": "💖┃至臻┃4K💖",
+      "key": "YGP",
+      "name": "🚀荐影┃预告片",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "csp_YGPGuard",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "WexhubanGuard",
-      "name": "💓虎斑┃4K💓",
+      "key": "MTV1",
+      "name": "🎙️易听┃音乐",
       "type": 3,
-      "api": "csp_WexhubanGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Wexmuougg",
-      "name": "💓木偶┃4K💓",
-      "type": 3,
-      "api": "csp_WexmuouggGuard",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "csp_MusicGuard",
+       "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
@@ -81,6 +77,8 @@
       "name": "👒原创┃不卡",
       "type": 3,
       "api": "csp_YCyzGuard",
+       "timeout": 15,
+       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -90,6 +88,8 @@
       "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCzGuard",
+       "timeout": 10,
+       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -171,16 +171,6 @@
       "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
     },
     {
-      "key": "播客",
-      "name": "🦊播客┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-    },
-    {
       "key": "剧圈",
       "name": "🐻剧圈┃多线",
       "type": 3,
@@ -219,6 +209,16 @@
       "ext": "https://www.xb6v.com/"
     },
     {
+      "key": "AiDj",
+      "name": "❤️AI┃短漫剧",
+      "type": 3,
+      "api": "csp_AiDjGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
       "key": "咕咕",
       "name": "🦉咕咕┃动漫",
       "type": 3,
@@ -238,15 +238,6 @@
       "filterable": 0
     },
     {
-      "key": "Anime1",
-      "name": "🐾日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "看球",
       "name": "⚽八八┃看球",
       "type": 3,
@@ -257,7 +248,7 @@
     },
     {
       "key": "多多",
-      "name": "🏀多多┃看球",
+      "name": "🏀多多┃回放",
       "type": 3,
       "api": "csp_DoubaoGuard",
       "searchable": 0,
@@ -353,7 +344,7 @@
     },
     {
       "key": "YpanSo",
-      "name": "🐟盘她┃夸父",
+      "name": "🐌盘她┃夸父",
       "type": 3,
       "api": "csp_YpanSoGuard",
       "searchable": 1,
@@ -373,7 +364,7 @@
     },
     {
       "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
+      "name": "🌶️抠抠┃搜搜",
       "type": 3,
       "api": "csp_KkSsGuard",
       "searchable": 1,
