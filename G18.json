@@ -475,7 +475,7 @@
       "key": "直播",
       "name": "平台直播",
       "type": 0,
-      "api": " ",
+      "api": "http://47.120.41.246:8025/vip/jar/zb.php ",
       "playUrl": "http://47.120.41.246:8025/vip/jar/zb.php",
       "searchable": 1,
       "quickSearch": 1,
