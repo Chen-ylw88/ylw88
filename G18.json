@@ -472,14 +472,14 @@
       "filterable": 0
     },
     {
-      "key": "直播",
-      "name": "平台直播",
-      "type": 0,
-      "api": "http://47.120.41.246:8025/vip/jar/zb.php ",
+      "key": "至臻",
+      "name": "💖┃至臻┃4K💖",
+      "type": 3,
+      "api": "csp_PanWebShare",
       "playUrl": "http://47.120.41.246:8025/vip/jar/zb.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }
   ],
   "lives": [
