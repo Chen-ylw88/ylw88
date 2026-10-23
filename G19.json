@@ -1,0 +1,618 @@
+{
+  "sites": [
+    {
+      "key": "御兰湾-CZH",
+      "name": "御兰湾-CZH",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "豆瓣资源",
+      "name": "豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "爱奇艺资源",
+      "name": "爱奇艺资源",
+      "type": 1,
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "猫眼资源",
+      "name": "猫眼资源",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "虎牙资源",
+      "name": "虎牙资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "非凡资源",
+      "name": "非凡资源",
+      "type": 0,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "天涯资源",
+      "name": "天涯资源",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "如意资源网",
+      "name": "如意资源网",
+      "type": 0,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "暴风资源",
+      "name": "暴风资源",
+      "type": 0,
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "360资源",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "   新浪资源                             ",
+      "name": "   新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "百度云资源",
+      "name": "百度云资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "牛牛资源",
+      "name": "牛牛资源",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "茅台资源",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/   ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "电影天堂",
+      "name": "电影天堂",
+      "type": 0,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "淘片资源网",
+      "name": "淘片资源网",
+      "type": 0,
+      "api": "https://taopianapi.com/cjapi/sda/vod/xml.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "香蕉资源",
+      "name": "香蕉资源",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "lives": [
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV1",
+          "urls": [
+            "rtp://239.20.0.104:2006"
+          ]
+        },
+        {
+          "name": "CCTV2",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV3",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV4",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV5",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV6",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV7",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV8",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV9",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV10",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV11",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV12",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV13",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV14",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV15",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV16",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=cctv16"
+          ]
+        },
+        {
+          "name": "CCTV17",
+          "urls": [
+            "http://gd.wsd.gd.cn:1698/udp/239.20.0.29:3288"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "广东卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "江苏卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "江西卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "湖北卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "安徽卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "山东卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "深圳卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "云南卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "贵州卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "重庆卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "天津卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "辽宁卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=jlws"
+          ]
+        },
+        {
+          "name": "陕西卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=sxws"
+          ]
+        },
+        {
+          "name": "青海卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=qhws"
+          ]
+        },
+        {
+          "name": "东南卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=dnws"
+          ]
+        },
+        {
+          "name": "海南卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=hinws"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=jlws"
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=gsws"
+          ]
+        },
+        {
+          "name": "山西卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=sxiws"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://8.138.7.223/tv/nmgws.m3u8"
+          ]
+        },
+        {
+          "name": "西藏卫视",
+          "urls": [
+            "http://php.jdshipin.com:8880/xztv.php?id=ws"
+          ]
+        },
+        {
+          "name": "新疆卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=xjws"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://lxajh.top/tv/hn.php?id=hnws"
+          ]
+        },
+        {
+          "name": "河北卫视",
+          "urls": [
+            "http://t.061899.xyz/tl/dq.php?id=hbws"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "广东地方台",
+      "channels": [
+        {
+          "name": "广东卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "深圳卫视",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "广东珠江",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/1010_1.m3u8?key=txiptv"
+          ]
+        },
+        {
+          "name": "广东新闻",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "广东经济科教",
+          "urls": [
+            "http://116.7.10.83:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "韶关综合台",
+          "urls": [
+            "https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "港澳台",
+      "channels": [
+        {
+          "name": "翡翠台",
+          "urls": [
+            "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2",
+            "http://php.jdshipin.com:8880/smt.php?id=jade_twn"
+          ]
+        },
+        {
+          "name": "华丽翡翠",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=huali"
+          ]
+        },
+        {
+          "name": "TVB明珠台",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=mzt"
+          ]
+        },
+        {
+          "name": "TVB无线新闻",
+          "urls": [
+            "http://php.jdshipin.com/smt.php?id=inews_twn"
+          ]
+        },
+        {
+          "name": "TVB无线星河",
+          "urls": [
+            "http://php.jdshipin.com/smt.php?id=Xinhe"
+          ]
+        },
+        {
+          "name": "澳视澳门",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=asam"
+          ]
+        },
+        {
+          "name": "凤凰中文",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx"
+          ]
+        },
+        {
+          "name": "凤凰香港",
+          "urls": [
+            "http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn"
+          ]
+        },
+        {
+          "name": "香港卫视",
+          "urls": [
+            "https://stream1.freetv.fun/9997883799cbd1a55b08e80f73d991dd601380ff5923a25d174b75d1f0a5a371.m3u8"
+          ]
+        },
+        {
+          "name": "星空国际",
+          "urls": [
+            "http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "电影台",
+      "channels": [
+        {
+          "name": "CHC影迷电影",
+          "urls": [
+            "http://sh.lnott.top:880/dx101.m3u8"
+          ]
+        },
+        {
+          "name": "CHC动作电影",
+          "urls": [
+            "http://113.26.251.182:8009/hls/83/index.m3u8"
+          ]
+        },
+        {
+          "name": "CHC家庭影院",
+          "urls": [
+            "http://113.26.251.182:8009/hls/82/index.m3u8"
+          ]
+        },
+        {
+          "name": "美亚电影台",
+          "urls": [
+            "http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn"
+          ]
+        },
+        {
+          "name": "1905国内电影",
+          "urls": [
+            "http://php.jdshipin.com:8880/1905.php?id=1905dy"
+          ]
+        },
+        {
+          "name": "1905国外电影",
+          "urls": [
+            "http://php.jdshipin.com:8880/1905.php?id=1905dy2"
+          ]
+        }
+      ]
+    }
+  ],
+  "wallpaper": "https://gitee.com/ylw88/ylw/raw/master/logo/1.jpg"
+}
