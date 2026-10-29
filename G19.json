@@ -1,0 +1,1304 @@
+{
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🐼┃QQ频道：肥猫宝贝┃",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "豆瓣预告",
+      "name": "🐼┃豆瓣┃预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "config",
+      "name": "🐼┃配置┃中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "alllive",
+      "name": "🎮┃游戏┃直播",
+      "type": 3,
+      "api": "csp_Alllive",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "game"
+    },
+    {
+      "key": "csp_FeiMaoUC",
+      "name": "⚡┃闪电┃优汐",
+      "type": 3,
+      "api": "csp_Duopan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "潮流",
+      "name": "🏜┃潮流┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "肥猫",
+      "name": "🐼┃肥猫┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt|oW5UxZ5kWVr1DI69"
+    },
+    {
+      "key": "干饭",
+      "name": "🍚┃干饭┃APP",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "光盘",
+      "name": "📀┃光盘┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://103.217.190.91:5566|hagYExMdMkeWfemK"
+    },
+    {
+      "key": "行动",
+      "name": "😌┃行动┃APP",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "再来",
+      "name": "✌️┃再来┃APP",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "一碗",
+      "name": "🥣┃一碗┃APP",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "韩圈",
+      "name": "⭕┃韩圈 ┃APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "一起",
+      "name": "👀┃一起┃APP",
+      "type": 3,
+      "api": "csp_AppYQK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "咕噜",
+      "name": "🕊┃︎咕噜┃APP",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蔬菜",
+      "name": "🫛┃蔬菜┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "🥇️┃金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://y2s52n7.com"
+    },
+    {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://api.ztcgi.com"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥┃火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://shdy5.us"
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.4kcz.com/"
+    },
+    {
+      "key": "csp_SP360",
+      "name": "📺┃360┃官源",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Bili",
+      "name": "🅱┃️哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "🤣┃动漫┃巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://dm84.net"
+    },
+    {
+      "key": "方舟",
+      "name": "🐷┃方舟┃动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.cyfz.top|e72cdfd629e8895d"
+    },
+    {
+      "key": "番薯",
+      "name": "🍠┃番薯┃动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://app.omofun1.top|66dc309cbeeca454"
+    },
+    {
+      "key": "csp_FirstAid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "酷狗",
+      "name": "🐾┃酷狗┃音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "MTV",
+      "name": "🎧┃明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "看球",
+      "name": "⚾┃看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "瓜子",
+      "name": "🏀┃瓜子┃体育",
+      "type": 3,
+      "api": "csp_GuaziTY",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "米搜",
+      "name": "🌖┃米搜┃网盘",
+      "type": 3,
+      "api": "csp_MiSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt"
+    },
+    {
+      "key": "csp_PanSearch",
+      "name": "🚃┃盘搜┃网盘",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
+      "key": "儿童",
+      "name": "📚┃儿童┃启蒙",
+      "type": 3,
+      "api": "http://%E8%82%A5%E7%8C%AB.net/api/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://%E8%82%A5%E7%8C%AB.net/js/兔小贝.js"
+    },
+    {
+      "key": "csp_少儿",
+      "name": "📚┃少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "csp_小学",
+      "name": "📚┃小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "csp_初中",
+      "name": "📚┃初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "csp_高中",
+      "name": "📚┃高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "push_agent",
+      "name": "QQ频道：肥猫宝贝",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ".json/txt/ken.txt"
+    }
+  ],
+  "lives": [
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV1",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.129:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.86:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.17:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.119:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.129:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.144:5146"
+          ]
+        },
+        {
+          "name": "CCTV2",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.137:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.158:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.137:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.158:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.17:5146"
+          ]
+        },
+        {
+          "name": "CCTV3",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.169:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.32:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.7:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.32:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.175:5146"
+          ]
+        },
+        {
+          "name": "CCTV4",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.78:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.33:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.166:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.33:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.163:5146"
+          ]
+        },
+        {
+          "name": "CCTV5",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.170:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.87:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.31:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.170:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.177:5146"
+          ]
+        },
+        {
+          "name": "CCTV6",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.171:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.9:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.35:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.171:5146"
+          ]
+        },
+        {
+          "name": "CCTV7",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.36:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.138:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.159:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.36:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.138:5146"
+          ]
+        },
+        {
+          "name": "CCTV8",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.172:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.37:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.172:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.10:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.37:5146"
+          ]
+        },
+        {
+          "name": "CCTV9",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.135:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.160:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.38:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.168:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.38:5146"
+          ]
+        },
+        {
+          "name": "CCTV10",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.39:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv10",
+            "http://183.62.8.58:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV11",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.40:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv11",
+            "http://183.62.8.58:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV12",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.41:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv12",
+            "http://183.62.8.58:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV13",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.42:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv13",
+            "http://183.62.8.58:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV14",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.43:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv14",
+            "http://183.62.8.58:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV15",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.120:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv15",
+            "http://183.62.8.58:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV16",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.165:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv16"
+          ]
+        },
+        {
+          "name": "CCTV17",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.115:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cctv17"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "央视精选频道",
+      "channels": [
+        {
+          "name": "第一剧场",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.15:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.28:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.15:5146"
+          ]
+        },
+        {
+          "name": "风云剧场",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.16:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.26:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.16:5146"
+          ]
+        },
+        {
+          "name": "怀旧剧场",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.5:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.25:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.5:5146"
+          ]
+        },
+        {
+          "name": "风云音乐",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.6:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.29:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.6:5146"
+          ]
+        },
+        {
+          "name": "世界地理",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.7:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.24:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.7:5146"
+          ]
+        },
+        {
+          "name": "电视指南",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.10:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.19:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.10:5146"
+          ]
+        },
+        {
+          "name": "兵器科技",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.9:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.18:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.9:5146"
+          ]
+        },
+        {
+          "name": "发现之旅",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.112:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.127:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.112:5146"
+          ]
+        },
+        {
+          "name": "环球奇观",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.198:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.126:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.198:5146"
+          ]
+        },
+        {
+          "name": "老故事",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.220:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.197:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.220:5146"
+          ]
+        },
+        {
+          "name": "风云足球",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.14:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.20:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.14:5146"
+          ]
+        },
+        {
+          "name": "高尔夫网球",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.22:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.12:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.22:5146"
+          ]
+        },
+        {
+          "name": "央视台球",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.11:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.21:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.11:5146"
+          ]
+        },
+        {
+          "name": "天元围棋",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.98:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.98:5146"
+          ]
+        },
+        {
+          "name": "女性时尚",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.23:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.8:5146",
+            "http://192.168.1.1:28888/rtp/239.253.43.23:5146"
+          ]
+        },
+        {
+          "name": "卫生健康",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.212:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.212:5146"
+          ]
+        },
+        {
+          "name": "快乐垂钓",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.145:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.145:5146"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "广东地方台",
+      "channels": [
+        {
+          "name": "广东卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.153:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.233:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.84:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.166:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.19:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.152:5146"
+          ]
+        },
+        {
+          "name": "深圳卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.92:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.189:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.92:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.3:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.148:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.130:5146"
+          ]
+        },
+        {
+          "name": "深圳都市频道",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.176:5146"
+          ]
+        },
+        {
+          "name": "深圳电视剧",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.177:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.125:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.125:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.177:5146"
+          ]
+        },
+        {
+          "name": "广东珠江",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.1:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.114:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.1:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.114:5146"
+          ]
+        },
+        {
+          "name": "广东经济科教",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.85:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.167:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.85:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.167:5146"
+          ]
+        },
+        {
+          "name": "广东新闻",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.173:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.173:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.173:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.173:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.173:5146"
+          ]
+        },
+        {
+          "name": "广东影视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.217:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.217:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.217:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.217:5146"
+          ]
+        },
+        {
+          "name": "大湾区卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.215:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.215:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.215:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.215:5146"
+          ]
+        },
+        {
+          "name": "广东民生",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.225:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.225:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.225:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.225:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.225:5146"
+          ]
+        },
+        {
+          "name": "广东公共",
+          "urls": [
+            "http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "广东体育",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.168:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.112:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.112:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.112:5146"
+          ]
+        },
+        {
+          "name": "韶关综合台",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.117:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.117:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.117:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.117:5146"
+          ]
+        },
+        {
+          "name": "测试台",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.66:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.2:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.59:5146"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.88:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.5:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.88:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.5:5146"
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.91:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.232:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.151:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.4:5146"
+          ]
+        },
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.89:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.33:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.89:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.33:5146"
+          ]
+        },
+        {
+          "name": "江苏卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.90:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.18:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.90:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.18:5146"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.98:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.218:5146",
+            "http://192.168.1.1:28888/rtp/239.77.0.98:5146",
+            "http://192.168.1.1:28888/rtp/239.77.1.218:5146"
+          ]
+        },
+        {
+          "name": "江西卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.149:5146",
+            "http://t.061899.xyz/tl/dq.php?id=jxws",
+            "http://183.62.8.58:50085/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "湖北卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.95:5146",
+            "http://t.061899.xyz/tl/dq.php?id=hubws",
+            "http://183.62.8.58:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "安徽卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.183:5146",
+            "http://t.061899.xyz/tl/dq.php?id=ahws",
+            "http://183.62.8.58:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "山东卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.94:5146",
+            "http://t.061899.xyz/tl/dq.php?id=sdws",
+            "http://183.62.8.58:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "云南卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.37:5146",
+            "http://t.061899.xyz/tl/dq.php?id=ynws",
+            "http://183.62.8.58:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "贵州卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.230:5146",
+            "http://t.061899.xyz/tl/dq.php?id=gzws",
+            "http://183.62.8.58:50085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.159:5146",
+            "http://t.061899.xyz/tl/dq.php?id=scws",
+            "http://183.62.8.58:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "重庆卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.182:5146",
+            "http://t.061899.xyz/tl/dq.php?id=cqws",
+            "http://183.62.8.58:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "天津卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.97:5146",
+            "http://t.061899.xyz/tl/dq.php?id=tjws",
+            "http://183.62.8.58:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "辽宁卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.103:5146",
+            "http://t.061899.xyz/tl/dq.php?id=lnws",
+            "http://183.62.8.58:50085/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.17:5146",
+            "http://t.061899.xyz/tl/dq.php?id=hnws",
+            "http://183.62.8.58:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.93:5146",
+            "http://t.061899.xyz/tl/dq.php?id=hljws",
+            "http://183.62.8.58:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.150:5146",
+            "http://t.061899.xyz/tl/dq.php?id=jlws",
+            "http://183.62.8.58:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "陕西卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.68:5146",
+            "http://t.061899.xyz/tl/dq.php?id=sxws",
+            "http://183.62.8.58:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "青海卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.70:5146",
+            "http://t.061899.xyz/tl/dq.php?id=qhws",
+            "http://183.62.8.58:50085/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "东南卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.146:5146",
+            "http://t.061899.xyz/tl/dq.php?id=dnws",
+            "http://183.62.8.58:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "海南卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.253.43.35:5146",
+            "http://t.061899.xyz/tl/dq.php?id=hinws"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.150:5146",
+            "http://t.061899.xyz/tl/dq.php?id=jlws",
+            "http://183.62.8.58:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.189:5146",
+            "http://t.061899.xyz/tl/dq.php?id=gsws"
+          ]
+        },
+        {
+          "name": "山西卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.69:5146",
+            "http://t.061899.xyz/tl/dq.php?id=sxiws",
+            "http://183.62.8.58:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.70:5146",
+            "http://8.138.7.223/tv/nmgws.m3u8",
+            "http://183.62.8.58:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "西藏卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.46:5146",
+            "http://183.62.8.58:50085/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://php.jdshipin.com:8880/xztv.php?id=ws"
+          ]
+        },
+        {
+          "name": "新疆卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.47:5146",
+            "http://t.061899.xyz/tl/dq.php?id=xjws",
+            "http://183.62.8.58:50085/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.17:5146",
+            "http://t.061899.xyz/tl/dq.php?id=hnws",
+            "http://183.62.8.58:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "河北卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.148:5146",
+            "http://t.061899.xyz/tl/dq.php?id=hbws",
+            "http://183.62.8.58:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "宁夏卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.49:5146",
+            "http://www.wmviv.com/iptv/bc2t.php?id=nxws"
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.139:5146",
+            "http://t.061899.xyz/tl/dq.php?id=gxws",
+            "http://183.62.8.58:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "兵团卫视",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.48:5146",
+            "http://t.061899.xyz/tl/dq.php?id=btws",
+            "http://183.62.8.58:50085/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "CHC电影台",
+      "channels": [
+        {
+          "name": "CHC影迷电影",
+          "urls": [
+            "http://198.204.228.26/live/chchd.m3u8?ysp",
+            "http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CHC动作电影",
+          "urls": [
+            "http://198.204.228.26/live/chcdz.m3u8?ysp",
+            "http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CHC家庭影院",
+          "urls": [
+            "http://198.204.228.26/live/chcjt.m3u8",
+            "http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "东森电影台",
+          "urls": [
+            "http://iptv.4666888.xyz/iptv2A.php?id=48"
+          ]
+        },
+        {
+          "name": "周润发电影",
+          "urls": [
+            "http://198.204.228.26/live/lbzrf.m3u8?ysp"
+          ]
+        },
+        {
+          "name": "重温经典",
+          "urls": [
+            "http://198.204.228.26/live/cwjd.m3u8?ysp",
+            "http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "华数专区",
+      "channels": [
+        {
+          "name": "华数热播剧场",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.106:5146"
+          ]
+        },
+        {
+          "name": "华数爱大剧1",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.105:5146"
+          ]
+        },
+        {
+          "name": "华数爱大剧2",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.110:5146"
+          ]
+        },
+        {
+          "name": "华数爱电影",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.0.103:5146"
+          ]
+        },
+        {
+          "name": "华数爱电影",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.138:5146"
+          ]
+        },
+        {
+          "name": "华数电视剧",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.82:5146"
+          ]
+        },
+        {
+          "name": "华数谍战剧场",
+          "urls": [
+            "http://192.168.1.1:28888/rtp/239.77.1.83:5146"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "港澳台",
+      "channels": [
+        {
+          "name": "翡翠台",
+          "urls": [
+            "http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2",
+            "http://php.jdshipin.com:8880/smt.php?id=jade_twn"
+          ]
+        },
+        {
+          "name": "华丽翡翠",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=huali"
+          ]
+        },
+        {
+          "name": "TVB明珠台",
+          "urls": [
+            "http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://php.jdshipin.com/TVOD/iptv.php?id=mzt"
+          ]
+        },
+        {
+          "name": "TVB无线新闻",
+          "urls": [
+            "http://php.jdshipin.com/smt.php?id=inews_twn"
+          ]
+        },
+        {
+          "name": "TVB无线星河",
+          "urls": [
+            "http://php.jdshipin.com/smt.php?id=Xinhe"
+          ]
+        },
+        {
+          "name": "澳视澳门",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=asam"
+          ]
+        },
+        {
+          "name": "凤凰中文",
+          "urls": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx"
+          ]
+        },
+        {
+          "name": "凤凰香港",
+          "urls": [
+            "http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn"
+          ]
+        },
+        {
+          "name": "香港卫视",
+          "urls": [
+            "https://stream1.freetv.fun/9997883799cbd1a55b08e80f73d991dd601380ff5923a25d174b75d1f0a5a371.m3u8"
+          ]
+        },
+        {
+          "name": "星空国际",
+          "urls": [
+            "http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "qiyi[官源]",
+      "type": 1,
+      "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
+    },
+    {
+      "name": "肥猫最可爱",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ],
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "spider": "https://ss1.eisite.cn/autoupload/f/eja2s/20261029/56AM/0X0/ash54.png;md5;cd1e8ad50504d324a55a9187b95cd3de"
+}
