@@ -1098,7 +1098,7 @@
         {
           "name": "TVB明珠台",
           "urls": [
-            "http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "https://cdn3.indevs.in/stream/tvb/mzt/",
             "http://php.jdshipin.com/TVOD/iptv.php?id=mzt"
           ]
         },
@@ -1118,7 +1118,7 @@
         {
           "name": "TVB无线星河",
           "urls": [
-            "http://php.jdshipin.com/smt.php?id=Xinhe"
+            "https://cdn3.indevs.in/stream/live/tvbxh/"
           ]
         },
         {
