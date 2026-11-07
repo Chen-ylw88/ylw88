@@ -1091,7 +1091,7 @@
         {
           "name": "凤凰中文",
           "urls": [
-            "http://family-ph.vividnian.com:8188/udp/233.50.200.191:5140",
+            "http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1",
             "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw"
           ]
         },
@@ -1124,7 +1124,7 @@
         {
           "name": "凤凰资讯",
           "urls": [
-            "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx"
+            "http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1"
           ]
         },
         {
