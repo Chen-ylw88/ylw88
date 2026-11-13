@@ -1203,7 +1203,7 @@
         {
           "name": "凤凰中文",
           "urls": [
-            "http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1",
+            "http://173.208.234.146/live/fhzw.m3u8?zbj",
             "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw"
           ]
         },
