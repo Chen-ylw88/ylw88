@@ -899,7 +899,7 @@
         {
           "name": "测试台",
           "urls": [
-            "http://198.204.228.26/live/fct.m3u8?ysp",
+            "http://ikuai.hanxiaowang.win:3344/rtp/239.69.2.20:11274",
             "http://198.204.228.26/live/fhzwt.m3u8?ysp",
             "http://198.204.228.26/live/hlt.m3u8?ysp"
           ]
