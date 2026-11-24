@@ -899,9 +899,9 @@
         {
           "name": "测试台",
           "urls": [
-            "http://ikuai.hanxiaowang.win:3344/rtp/239.69.2.20:11274",
-            "http://198.204.228.26/live/fhzwt.m3u8?ysp",
-            "http://198.204.228.26/live/hlt.m3u8?ysp"
+            "https://cdn6.cc.cd/163189/fhzw",
+            "https://cdn.qd.je/163189/fhzw",
+            "https://tv.ygo233.top/fengshows-chinese.flv?live=1"
           ]
         }
       ]
