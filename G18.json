@@ -899,7 +899,7 @@
         {
           "name": "测试台",
           "urls": [
-            "http://192.168.1.1:28888/rtp/239.61.2.184:9092",
+            "http://183.144.24.17:8088/udp/233.50.200.191:5140",
             "https://cdn.qd.je/163189/fhzw",
             "https://tv.ygo233.top/fengshows-chinese.flv?live=1"
           ]
