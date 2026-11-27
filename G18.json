@@ -1256,7 +1256,7 @@
         {
           "name": "凤凰中文",
           "urls": [
-            "http://172.16.8.212:801/hls/542/index.m3u8",
+            "https://tv.ygo233.top/fengshows-chinese.flv?live=1",
             "http://113.64.147.80:8081/hls/37/index.m3u8"
           ]
         },
